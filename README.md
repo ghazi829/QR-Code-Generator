@@ -37,11 +37,9 @@ A sleek and responsive web application that generates QR codes instantly using t
 
 ```
 qr-code-generator/
-├── index.html          # Main application file
+├── index.html          # Main application file And QR generation logic & API integration
 ├── style.css           # Modern responsive styling
-├── script.js           # QR generation logic & API integration
-├── assets/
-│   └── images/         # Screenshots and icons
+├── Preview.png          
 └── README.md           # Project documentation
 ```
 
